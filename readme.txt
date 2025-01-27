@@ -1,4 +1,4 @@
-This folder contain all the code, report, image report and dataset for the assigned project of CVPR.
+This folder contains all the code, report, image report and dataset for the assigned project of CVPR.
 In order to run the code use main.py and selecting the task to run by activating the boolean variable associated to the desired task
 and run the main.py file.
 The code implementation for the tasks is inside the folder tasks.
